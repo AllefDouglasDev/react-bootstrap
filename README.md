@@ -4,25 +4,25 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 This project is a bootstrap to your react projects.
 
-## You already have
+### You already have
 
-# parzival-react (https://www.npmjs.com/package/parzival-react)
+#### parzival-react (https://www.npmjs.com/package/parzival-react)
 
 To create your components by terminal.
 
-# axios (https://www.npmjs.com/package/axios)
+#### axios (https://www.npmjs.com/package/axios)
 
 To consume your favorite APIs.
 
-# react-router-dom (https://www.npmjs.com/package/react-router-dom)
+#### react-router-dom (https://www.npmjs.com/package/react-router-dom)
 
 To route your routes.
 
-# styled-components (https://www.npmjs.com/package/styled-components)
+#### styled-components (https://www.npmjs.com/package/styled-components)
 
 To make your pages look beautiful.
 
-# babel-plugin-root-import, customize-cra and react-app-rewired
+#### babel-plugin-root-import, customize-cra and react-app-rewired
 
 To indicate relative path to your folders using ~ to refer src
 ex: "~/services/auth.service"
