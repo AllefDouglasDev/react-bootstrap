@@ -22,11 +22,7 @@ To route your routes.
 
 To make your pages look beautiful.
 
-#### babel-plugin-root-import,
-
-#### customize-cra,
-
-#### react-app-rewired
+#### babel-plugin-root-import & customize-cra & react-app-rewired
 
 To indicate relative path to your folders using ~ to refer src
 
