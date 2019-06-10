@@ -22,13 +22,20 @@ To route your routes.
 
 To make your pages look beautiful.
 
-#### babel-plugin-root-import, customize-cra and react-app-rewired
+#### babel-plugin-root-import,
+
+#### customize-cra,
+
+#### react-app-rewired
 
 To indicate relative path to your folders using ~ to refer src
+
 ex: "~/services/auth.service"
 
 (https://www.npmjs.com/package/babel-plugin-root-import)
+
 (https://www.npmjs.com/package/customize-cra)
+
 (https://www.npmjs.com/package/react-app-rewired)
 
 Run `npm start` or `yarn start` and start now!
